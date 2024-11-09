@@ -6,7 +6,7 @@
 ![viewfinal](https://github.com/user-attachments/assets/845f9738-1794-4c38-92bc-bc992267f84a)
 
 ![view final](https://github.com/user-attachments/assets/26bb9f6f-1d11-4566-b465-efb3f66d4a22)
-- [Demo Project][(https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)](https://hamidrezanikbkht.github.io/Project---css-html/)
+- [Demo Project][file:///C:/Users/PC1/Desktop/7/assets/index7.html
 
 - Developed by pouria farahani
 
